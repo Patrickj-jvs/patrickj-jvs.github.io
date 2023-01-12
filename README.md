@@ -1,2 +1,2 @@
-# patrickj-jvs.github.io
-JVS Direct Prod
+# james-vending-solutions.github.io
+James Vending Solutions Website
